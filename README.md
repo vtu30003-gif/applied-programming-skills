@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
