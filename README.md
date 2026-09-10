@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/1470-shuffle-the-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/vtu30003-gif/applied-programming-skills/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
